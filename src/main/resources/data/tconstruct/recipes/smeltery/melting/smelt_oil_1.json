@@ -1,0 +1,12 @@
+{
+    "type": "tconstruct:melting",
+    "ingredient": {
+      "tag": "forge:bitumen"
+    }, 
+    "result": {
+      "fluid": "coal_craftsman:oil_fluid",
+      "amount": 144 
+    }, 
+    "temperature": 485,
+    "time": 40
+  }

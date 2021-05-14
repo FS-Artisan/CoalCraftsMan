@@ -1,0 +1,13 @@
+{
+    "type": "tconstruct:casting_table",
+    "cast": {
+      "tag": "forge:string"
+    },
+    "fluid": {
+      "name": "tconstruct:molten_gold",
+      "amount": 144
+    },
+    "cast_consumed": true,
+    "result": "coal_craftsman:line_mould",
+    "cooling_time": 41
+  }

@@ -1,0 +1,12 @@
+{
+    "type": "tconstruct:melting",
+    "ingredient": {
+      "tag": "forge:oil_ore"
+    }, 
+    "result": {
+      "fluid": "coal_craftsman:oil_fluid",
+      "amount": 288
+    }, 
+    "temperature": 485,
+    "time": 80
+  }

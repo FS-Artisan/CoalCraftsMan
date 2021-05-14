@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+      "coal_craftsman:asphalt_ore",
+      "thermal:oil_red_sand",
+      "thermal:oil_sand"
+    ]
+  }

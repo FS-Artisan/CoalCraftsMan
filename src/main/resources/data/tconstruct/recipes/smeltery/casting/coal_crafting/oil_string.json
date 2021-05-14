@@ -1,0 +1,12 @@
+{
+    "type": "tconstruct:casting_table",
+    "cast": {
+      "item": "coal_craftsman:line_mould"
+    },
+    "fluid": {
+      "name": "coal_craftsman:oil_fluid",
+      "amount": 144
+    },
+    "result": "coal_craftsman:oil_string",
+    "cooling_time": 71
+  }
