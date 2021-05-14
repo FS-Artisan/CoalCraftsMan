@@ -1,0 +1,189 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "AsphaltOre",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "asphalt_ore"
+    },
+    {
+      "name": "Oil",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oil"
+    },
+    {
+      "name": "CoalCraftsman",
+      "type": "tab",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coal_craftsman"
+    },
+    {
+      "name": "OilFluid",
+      "type": "fluid",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oil_fluid"
+    },
+    {
+      "name": "LineMould",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "line_mould"
+    },
+    {
+      "name": "OilCarbonizeString",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oil_carbonize_string"
+    },
+    {
+      "name": "AdditionalMold",
+      "type": "tab",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "additional_mold"
+    },
+    {
+      "name": "CarbonPlate",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "carbon_plate"
+    },
+    {
+      "name": "OilFluidTouch",
+      "type": "procedure",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oil_fluid_touch",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "OilString",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oil_string"
+    },
+    {
+      "name": "AsphaltCraft",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "asphalt_craft"
+    },
+    {
+      "name": "RedSandLineMould",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_sand_line_mould"
+    },
+    {
+      "name": "SandLineMould",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sand_line_mould"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "fluid.oil_fluid": "OilFluid",
+      "itemGroup.tabadditional_mold": "CC-Additional Mold",
+      "item.coal_craftsman.carbon_plate": "Carbon Plate",
+      "block.coal_craftsman.asphalt_ore": "Asphalt Ore",
+      "item.coal_craftsman.oil_carbonize_string": "Oil Carbonize String",
+      "item.coal_craftsman.oil": "Oil",
+      "fluid.coal_craftsman.oil_fluid": "Oil Fluid",
+      "item.coal_craftsman.red_sand_line_mould": "Red Sand Line Mould",
+      "fluid.coal_craftsman.flowing_oil_fluid": "Flowing Oil Fluid",
+      "item.coal_craftsman.oil_string": "Oil String",
+      "item.coal_craftsman.oil_fluid_bucket": "OilFluid Bucket",
+      "item.coal_craftsman.line_mould": " Gold Line Mould",
+      "itemGroup.tabcoal_craftsman": "Coal CraftsMan",
+      "item.coal_craftsman.sand_line_mould": "Sand Line Mould"
+    },
+    "zh_cn": {
+      "fluid.oil_fluid": "熔融沥青",
+      "itemGroup.tabadditional_mold": "煤炭工匠-附加模具",
+      "item.coal_craftsman.carbon_plate": "碳板",
+      "block.coal_craftsman.asphalt_ore": "沥青矿",
+      "item.coal_craftsman.oil_carbonize_string": "碳化沥青线",
+      "item.coal_craftsman.oil": "沥青",
+      "fluid.coal_craftsman.oil_fluid": "熔融沥青",
+      "item.coal_craftsman.red_sand_line_mould": "线沙子铸模",
+      "fluid.coal_craftsman.flowing_oil_fluid": "流动的熔融沥青",
+      "item.coal_craftsman.oil_string": "沥青线",
+      "item.coal_craftsman.oil_fluid_bucket": "熔融沥青桶",
+      "item.coal_craftsman.line_mould": "线黄金铸模",
+      "itemGroup.tabcoal_craftsman": "煤炭工匠",
+      "item.coal_craftsman.sand_line_mould": "线红沙铸模"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "coal_craftsman",
+    "modName": "Coal CraftsMan",
+    "version": "0.1.1",
+    "author": "HLFT",
+    "websiteURL": "https://mcreator.net",
+    "license": "MIT License",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "null",
+    "modElementsPackage": "coal_crafting.coal_craftsman",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

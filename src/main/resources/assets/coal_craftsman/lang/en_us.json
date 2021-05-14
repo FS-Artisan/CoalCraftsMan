@@ -1,0 +1,16 @@
+{
+  "fluid.oil_fluid": "OilFluid",
+  "itemGroup.tabadditional_mold": "CC-Additional Mold",
+  "item.coal_craftsman.carbon_plate": "Carbon Plate",
+  "block.coal_craftsman.asphalt_ore": "Asphalt Ore",
+  "item.coal_craftsman.oil_carbonize_string": "Oil Carbonize String",
+  "item.coal_craftsman.oil": "Oil",
+  "fluid.coal_craftsman.oil_fluid": "Oil Fluid",
+  "item.coal_craftsman.red_sand_line_mould": "Red Sand Line Mould",
+  "fluid.coal_craftsman.flowing_oil_fluid": "Flowing Oil Fluid",
+  "item.coal_craftsman.oil_string": "Oil String",
+  "item.coal_craftsman.oil_fluid_bucket": "OilFluid Bucket",
+  "item.coal_craftsman.line_mould": " Gold Line Mould",
+  "itemGroup.tabcoal_craftsman": "Coal CraftsMan",
+  "item.coal_craftsman.sand_line_mould": "Sand Line Mould"
+}

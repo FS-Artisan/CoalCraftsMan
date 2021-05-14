@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Coal CraftsMan",
+    "icon": {
+      "value": "Blocks.SMOOTH_STONE"
+    },
+    "showSearch": false
+  }
+}

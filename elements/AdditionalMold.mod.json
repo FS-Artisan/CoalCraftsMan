@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "CC-Additional Mold",
+    "icon": {
+      "value": "CUSTOM:LineMould"
+    },
+    "showSearch": false
+  }
+}

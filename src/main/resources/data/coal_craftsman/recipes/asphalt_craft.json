@@ -1,0 +1,12 @@
+{
+  "group": "coal_craftsman",
+  "type": "minecraft:smelting",
+  "experience": 0.5,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "coal_craftsman:asphalt_ore"
+  },
+  "result": {
+    "item": "coal_craftsman:oil"
+  }
+}

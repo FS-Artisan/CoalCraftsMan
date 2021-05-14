@@ -1,0 +1,33 @@
+{
+  "_fv": 18,
+  "_type": "fluid",
+  "definition": {
+    "name": "OilFluid",
+    "textureStill": "oil_fluid_over",
+    "textureFlowing": "oil_fluid_flow",
+    "luminosity": 0,
+    "density": 2460,
+    "viscosity": 7200,
+    "isGas": false,
+    "type": "WATER",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "CUSTOM:CoalCraftsman"
+    },
+    "frequencyOnChunks": 1,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "desert"
+      },
+      {
+        "value": "desert_hills"
+      }
+    ],
+    "onEntityCollides": {
+      "name": "OilFluidTouch"
+    }
+  }
+}

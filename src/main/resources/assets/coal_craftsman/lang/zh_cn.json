@@ -1,0 +1,16 @@
+{
+  "fluid.oil_fluid": "熔融沥青",
+  "itemGroup.tabadditional_mold": "煤炭工匠-附加模具",
+  "item.coal_craftsman.carbon_plate": "碳板",
+  "block.coal_craftsman.asphalt_ore": "沥青矿",
+  "item.coal_craftsman.oil_carbonize_string": "碳化沥青线",
+  "item.coal_craftsman.oil": "沥青",
+  "fluid.coal_craftsman.oil_fluid": "熔融沥青",
+  "item.coal_craftsman.red_sand_line_mould": "线沙子铸模",
+  "fluid.coal_craftsman.flowing_oil_fluid": "流动的熔融沥青",
+  "item.coal_craftsman.oil_string": "沥青线",
+  "item.coal_craftsman.oil_fluid_bucket": "熔融沥青桶",
+  "item.coal_craftsman.line_mould": "线黄金铸模",
+  "itemGroup.tabcoal_craftsman": "煤炭工匠",
+  "item.coal_craftsman.sand_line_mould": "线红沙铸模"
+}

@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "coal_craftsman:oil_fluid",
+    "coal_craftsman:oil_fluid_flowing"
+  ]
+}
